@@ -47,7 +47,7 @@ public class Home extends AppCompatActivity {
         info.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                String url = "http://computercourses.rf.gd/";
+                String url = "https://pcskils.blogspot.com/";
                 Intent i = new Intent(Home.this, Websit.class);
                 i.putExtra("url",url);
                 startActivity(i);
@@ -74,7 +74,7 @@ public class Home extends AppCompatActivity {
         certificaate.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                String url = "http://computercourses.rf.gd/online-registration/";
+                String url = "https://computercoursesbwp.blogspot.com/p/student-verification.html";
                 Intent i = new Intent(Home.this, Websit.class);
                 i.putExtra("url",url);
                 startActivity(i);
@@ -88,7 +88,7 @@ public class Home extends AppCompatActivity {
         instructor.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                String url = "http://computercourses.rf.gd/profile/computercourses/?view=instructor";
+                String url = "https://pcskils.blogspot.com/";
                 Intent i = new Intent(Home.this, Websit.class);
                 i.putExtra("url",url);
                 startActivity(i);
@@ -103,7 +103,7 @@ public class Home extends AppCompatActivity {
         reveos.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                String url = "http://computercourses.rf.gd/dashboard/reviews/";
+                String url = "https://www.google.com/maps/place/The+Computer+Courses+Bahawalpur/@29.3779462,71.6968447,17z/data=!4m21!1m14!4m13!1m5!1m1!1s0x393b91fb7b3faf95:0xfa9381c28749111a!2m2!1d71.6994196!2d29.3779416!1m6!1m2!1s0x393b91fb7b3faf95:0xfa9381c28749111a!2sGreen+Town+Rd,+Green+Town,+Bahawalpur,+63100,+Pakistan!2m2!1d71.6994196!2d29.3779416!3m5!1s0x393b91fb7b3faf95:0xfa9381c28749111a!8m2!3d29.3779416!4d71.6994196!16s%2Fg%2F11sv1xs66l?entry=ttu&g_ep=EgoyMDI1MDcxNi4wIKXMDSoASAFQAw%3D%3D";
                 Intent i = new Intent(Home.this, Websit.class);
                 i.putExtra("url",url);
                 startActivity(i);
@@ -116,7 +116,7 @@ public class Home extends AppCompatActivity {
         student_bt.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                String url = "http://computercourses.rf.gd/students/";
+                String url = "https://pcskils.blogspot.com/";
                 Intent i = new Intent(Home.this, Websit.class);
                 i.putExtra("url",url);
                 startActivity(i);
@@ -129,7 +129,7 @@ public class Home extends AppCompatActivity {
         profile_bt.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                String url = "http://computercourses.rf.gd/dashboard/my-profile/";
+                String url = "https://pcskils.blogspot.com/";
                 Intent i = new Intent(Home.this, Websit.class);
                 i.putExtra("url",url);
                 startActivity(i);
@@ -142,7 +142,7 @@ public class Home extends AppCompatActivity {
         enrolled_bt.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                String url = "http://computercourses.rf.gd/dashboard/enrolled-courses/";
+                String url = "https://pcskils.blogspot.com/";
                 Intent i = new Intent(Home.this, Websit.class);
                 i.putExtra("url",url);
                 startActivity(i);
@@ -155,7 +155,7 @@ public class Home extends AppCompatActivity {
         quiz_bt.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                String url = "http://computercourses.rf.gd/dashboard/my-quiz-attempts/";
+                String url = "https://pcskils.blogspot.com/";
                 Intent i = new Intent(Home.this, Websit.class);
                 i.putExtra("url",url);
                 startActivity(i);
@@ -168,7 +168,7 @@ public class Home extends AppCompatActivity {
         edit_perofile_bt.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                String url = "http://computercourses.rf.gd/dashboard/settings/";
+                String url = "https://pcskils.blogspot.com/";
                 Intent i = new Intent(Home.this, Websit.class);
                 i.putExtra("url",url);
                 startActivity(i);
@@ -182,7 +182,7 @@ public class Home extends AppCompatActivity {
         change_paaaaswwword_bt.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                String url = "http://computercourses.rf.gd/dashboard/settings/reset-password/";
+                String url = "https://pcskils.blogspot.com/";
                 Intent i = new Intent(Home.this, Websit.class);
                 i.putExtra("url",url);
                 startActivity(i);
@@ -196,7 +196,7 @@ public class Home extends AppCompatActivity {
         sociaaaal_profile_bt.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                String url = "http://computercourses.rf.gd/dashboard/settings/social-profile/";
+                String url = "https://pcskils.blogspot.com/";
                 Intent i = new Intent(Home.this, Websit.class);
                 i.putExtra("url",url);
                 startActivity(i);
@@ -210,7 +210,7 @@ public class Home extends AppCompatActivity {
         withdraw_bt.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                String url = "http://computercourses.rf.gd/my-account/add-payment-method/";
+                String url = "https://pcskils.blogspot.com/";
                 Intent i = new Intent(Home.this, Websit.class);
                 i.putExtra("url",url);
                 startActivity(i);
